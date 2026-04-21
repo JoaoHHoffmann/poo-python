@@ -9,6 +9,7 @@ restaurante_mexicano.alternar_estado()
 def main():
     Restaurante.listar_restaurantes()
 
+    
 if __name__ == '__main__':
     main()
 
